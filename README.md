@@ -21,20 +21,20 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            ![Screenshot 2024-10-13 112946](https://github.com/user-attachments/assets/7a6f39b4-d38d-49ae-8ae2-c97629b93a3e)
-![Screenshot 2024-10-13 113129](https://github.com/user-attachments/assets/a8f8f2f7-f684-442b-8805-1f7cc1bb55b9)
-![Screenshot 2024-10-13 113203](https://github.com/user-attachments/assets/74b6c1bd-5f51-4d2c-a836-12c1a615500b)
-![Screenshot 2024-10-13 113230](https://github.com/user-attachments/assets/3a9e31a4-0286-418c-80c1-557b169d9acc)
-![Screenshot 2024-10-13 113258](https://github.com/user-attachments/assets/4f37f71a-2186-4282-9aca-96727af5dea0)
-![Screenshot 2024-10-13 113335](https://github.com/user-attachments/assets/70446d3b-cf32-4e44-bd5e-2ca5d85f3390)
-![Screenshot 2024-10-13 113357](https://github.com/user-attachments/assets/a638f6ee-7ace-4172-ba8e-4a940a295d1e)
-![Screenshot 2024-10-13 113521](https://github.com/user-attachments/assets/639578dd-026c-42ab-9b93-f85fb302dcaa)
-![Screenshot 2024-10-13 113547](https://github.com/user-attachments/assets/9c1c4e00-754f-4cb5-a046-d102289220bd)
-![Screenshot 2024-10-13 113616](https://github.com/user-attachments/assets/796c5802-dfbe-4f4a-b52e-c53c3ca08917)
-![Screenshot 2024-10-13 113719](https://github.com/user-attachments/assets/472e96ea-4948-49cd-bd00-5ca458e01af6)
-![Screenshot 2024-10-13 113843](https://github.com/user-attachments/assets/dadf00cf-427f-468c-8775-888d45fae5da)
-![Screenshot 2024-10-13 113925](https://github.com/user-attachments/assets/bf2acd20-575d-4762-b0ab-0a56ea0146cc)
-![Screenshot 2024-10-13 113950](https://github.com/user-attachments/assets/e28bc244-90e1-49c4-9603-fbbad8c090cd)
+![Screenshot 2024-10-13 112946](https://github.com/user-attachments/assets/49d310b9-9f15-4e19-8f24-4ed2a2c2420c)
+![Screenshot 2024-10-13 113129](https://github.com/user-attachments/assets/e9d4ec1b-79cc-40c5-90b6-c9fd7d413aee)
+![Screenshot 2024-10-13 113203](https://github.com/user-attachments/assets/bd1b47e3-fb51-4ae1-8fbc-cd1576697afc)
+![Screenshot 2024-10-13 113230](https://github.com/user-attachments/assets/fb8ad08c-6818-4e09-9b12-2eb4a98782d7)
+![Screenshot 2024-10-13 113258](https://github.com/user-attachments/assets/8b70519c-7e40-43f9-837f-19c66f41c864)
+![Screenshot 2024-10-13 113335](https://github.com/user-attachments/assets/dad4cca9-50fb-4f86-bee0-ee452cfe55b4)
+![Screenshot 2024-10-13 113357](https://github.com/user-attachments/assets/ab412243-8f18-4c39-9ed0-9b449e4d6193)
+![Screenshot 2024-10-13 113521](https://github.com/user-attachments/assets/43cebb5a-abe1-41c2-96dd-359e5ad1b75f)
+![Screenshot 2024-10-13 113547](https://github.com/user-attachments/assets/a65b71e8-eb5b-47da-8a29-6dd75f76b994)
+![Screenshot 2024-10-13 113616](https://github.com/user-attachments/assets/bc5b4c13-2dd0-4914-b61f-04ae5c46a264)
+![Screenshot 2024-10-13 113950](https://github.com/user-attachments/assets/048df9cb-2289-41ff-b098-bc4d9c471fdf)
+![Screenshot 2024-10-13 113719](https://github.com/user-attachments/assets/2310dd88-d7f2-414e-a761-95d6c6905643)
+![Screenshot 2024-10-13 113843](https://github.com/user-attachments/assets/301964bd-2bcf-4cbd-bc25-85cc6dc59c79)
+![Screenshot 2024-10-13 113925](https://github.com/user-attachments/assets/b5234d22-48b7-4b60-aa04-53d29547447f)     
 
 # Result
           <<include your Result here>>
