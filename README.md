@@ -31,10 +31,10 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2024-10-13 113521](https://github.com/user-attachments/assets/43cebb5a-abe1-41c2-96dd-359e5ad1b75f)
 ![Screenshot 2024-10-13 113547](https://github.com/user-attachments/assets/a65b71e8-eb5b-47da-8a29-6dd75f76b994)
 ![Screenshot 2024-10-13 113616](https://github.com/user-attachments/assets/bc5b4c13-2dd0-4914-b61f-04ae5c46a264)
-![Screenshot 2024-10-13 113950](https://github.com/user-attachments/assets/048df9cb-2289-41ff-b098-bc4d9c471fdf)
 ![Screenshot 2024-10-13 113719](https://github.com/user-attachments/assets/2310dd88-d7f2-414e-a761-95d6c6905643)
 ![Screenshot 2024-10-13 113843](https://github.com/user-attachments/assets/301964bd-2bcf-4cbd-bc25-85cc6dc59c79)
-![Screenshot 2024-10-13 113925](https://github.com/user-attachments/assets/b5234d22-48b7-4b60-aa04-53d29547447f)     
+![Screenshot 2024-10-13 113925](https://github.com/user-attachments/assets/b5234d22-48b7-4b60-aa04-53d29547447f)  
+![Screenshot 2024-10-13 113950](https://github.com/user-attachments/assets/048df9cb-2289-41ff-b098-bc4d9c471fdf)
 
 # Result
           <<include your Result here>>
