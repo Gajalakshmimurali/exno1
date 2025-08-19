@@ -39,4 +39,5 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+          The given dataset was successfully read and analyzed.
+All missing values were identified and removed. Outliers were detected and eliminated using both the Interquartile Range (IQR) method and the Z-Score method. The final cleaned dataset was saved into a new file, making it ready for further analysis or model building.
